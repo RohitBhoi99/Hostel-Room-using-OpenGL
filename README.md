@@ -8,7 +8,7 @@ Camera movement is also implemented.
 
 The coordinates of these objects are hard-coded. 
 The room also features lightning effect with 2 lights in each room.
-Libraries used are GLEW and FreeGlut.
+Libraries used are Glut and FreeGlut.
 
 Preview Image:
 
