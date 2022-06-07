@@ -12,7 +12,7 @@ Libraries used are GLEW and FreeGlut.
 
 Preview Image:
 
-[[https://user-images.githubusercontent.com/86927636/172346122-90ceeca2-3312-4600-979d-e699da6f1cb1.png | width=100px]]
+[[https://user-images.githubusercontent.com/86927636/172346122-90ceeca2-3312-4600-979d-e699da6f1cb1.png|width=100px]]
 
 
 Requirements to run the file:
