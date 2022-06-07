@@ -345,23 +345,11 @@ void drawRoom() {
 }
 
 void windows() {
-	//float dcolor[4] = { 1, 1, 1, 1.0 };
-	//glMaterialfv(GL_FRONT_AND_BACK, GL_AMBIENT_AND_DIFFUSE, dcolor);
-	//glColor3f(0.0, 0.0, 1.0);
-
-	//float gold[13] = { 0.24725, 0.1995, 0.0745, 1.0,      /* ambient */
-	//			   0.75164, 0.60648, 0.22648, 1.0,    /* diffuse */
-	//			   0.628281, 0.555802, 0.366065, 1.0, /* specular */
-	//			   50.0                               /* shininess */
-	//};
+	
 	float gold_color[4] = { 1, 0.0, 0, 1.0 };
 	glMaterialfv(GL_FRONT_AND_BACK, GL_AMBIENT_AND_DIFFUSE, gold_color);
-
-	//glMaterialfv(GL_FRONT_AND_BACK, GL_AMBIENT, gold);
-	//glMaterialfv(GL_FRONT_AND_BACK, GL_DIFFUSE, &gold[4]);
-	//glMaterialfv(GL_FRONT_AND_BACK, GL_SPECULAR, &gold[8]);
 	glMaterialf(GL_FRONT_AND_BACK, GL_SHININESS, 100);
-	// 
+	
 	// Left window static (POV from inside the room)
 	glPushMatrix();
 	glTranslatef(ROOM_LENGTH * 4 / 10, 0, ROOM_LENGTH * 3 / 4 + 0.25);
@@ -518,9 +506,7 @@ void bedLeft()
 	glPushMatrix();
 	glTranslatef(-ROOM_LENGTH * (0.33)-7.5, -ROOM_LENGTH * (0.35) + 3, 30);
 	glRotatef(90, 0, 1, 0);
-
 	glutSolidCylinder(3, 15, 20, 20);
-	//cuboid(15, 3, 5);
 	glPopMatrix();
 
 	// Leg tall right
@@ -574,6 +560,7 @@ void tableLeft() {
 	glPushMatrix();
 	glTranslatef(-6, 0, 0);
 	int TABLE_LEG_SHIFT = 3;
+	
 	// main table
 	glColor3f(1.0, 0.0, 0.0);
 	glPushMatrix();
