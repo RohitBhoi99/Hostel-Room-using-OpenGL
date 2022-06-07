@@ -236,16 +236,6 @@ void keyInput(unsigned char key, int x, int y) {
 }
 
 void cuboid(int x, int y, int z) {
-	//float matAmb[] = { 0.01, 0.01, 0.01, 1.0 };
-	//float matDif[] = { 0.01, 0.01, 0.01, 1.0 };
-	//float matSpec[] = { 1, 1, 1, 1.0 };
-	//float matShine[] = { 5};
-	////float matEmission[] = { 0.0, 0.0, 0, 1.0 };
-	//glMaterialfv(GL_FRONT, GL_AMBIENT, matAmb);
-	//glMaterialfv(GL_FRONT, GL_DIFFUSE, matDif);
-	//glMaterialfv(GL_FRONT, GL_SPECULAR, matSpec);
-	//glMaterialfv(GL_FRONT, GL_SHININESS, matShine);
-	//glMaterialfv(GL_FRONT, GL_EMISSION, matEmission);
 	glScalef(x, y, z);
 	glutSolidCube(1);
 }
