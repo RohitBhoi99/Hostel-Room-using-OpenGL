@@ -16,19 +16,19 @@ Preview Image:
 
 Requirements to run the file:
 
-Must have installed GL/glut.h and GL/freeglut.h
+	Must have installed GL/glut.h and GL/freeglut.h
 
 Keys for performing various actions in the project:
 
-Movement
-w: forward
-a: left
-s: back
-d: right
+	1. Movement
+		w: forward
+		a: left
+		s: back
+		d: right
 
-Camera Rotation
-r: right
-f: left
+	2. Camera Rotation
+		r: right
+		f: left
 
 Fan Speed:
 x: increase
