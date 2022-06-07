@@ -17,6 +17,7 @@ Preview Image:
 Requirements to run the file:
 
 Must have installed GL/glut.h and GL/freeglut.h
+
 Keys for performing various actions in the project:
 
 Movement
