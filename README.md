@@ -14,7 +14,7 @@ Preview Image:
 
 
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/86927636/172348193-2f3dd121-a655-479d-a139-a5eb1f64e84a.png)" width="600">
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/86927636/172348193-2f3dd121-a655-479d-a139-a5eb1f64e84a.png)" width="200">
 
 Requirements to run the file:
 
