@@ -1,4 +1,4 @@
-# Hostel Room Model using OpenGL (C++)
+# Hostel Room using OpenGL (C++)
 
 We have rendered a hostel corridor having 8 identical furnished rooms in OpenGL.
 The rooms have basic furniture like Beds, Tables, Almirahs, Doors, Windows, Ceiling Fan etc.
