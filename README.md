@@ -30,27 +30,27 @@ Keys for performing various actions in the project:
 		r: right
 		f: left
 
-Fan Speed:
-x: increase
-z: decrease		
+	3. Fan Speed:
+		x: increase
+		z: decrease		
 
-Main Door Open and Close
-t: Open Door
-g: Close Door
+	4. Main Door Open and Close
+		t: Open Door
+		g: Close Door
 
-Almirah Doors
-y: Open Door
-h: Close Door
+	5. Almirah Doors
+		y: Open Door
+		h: Close Door
 
-Lights On/Off
-l: On/Off
+	6. Lights On/Off
+		l: On/Off
 
-Window Open/Close
-o: Close
-p: Open
+	7. Window Open/Close
+		o: Close
+		p: Open
 
-Crouch/Stand up
-c: crouch down
-v: Stand Up
+	8. Crouch/Stand up
+		c: crouch down
+		v: Stand Up
 
-To Move the cloth, increase fan speed by pressing ‘x’.
+	To Move the cloth, increase fan speed by pressing ‘x’.
