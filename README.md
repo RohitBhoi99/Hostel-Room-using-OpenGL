@@ -12,8 +12,9 @@ Libraries used are GLEW and FreeGlut.
 
 Preview Image:
 
-[[https://user-images.githubusercontent.com/86927636/172346122-90ceeca2-3312-4600-979d-e699da6f1cb1.png|width=100px]]
 
+
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/86927636/172348193-2f3dd121-a655-479d-a139-a5eb1f64e84a.png)" width="600">
 
 Requirements to run the file:
 
