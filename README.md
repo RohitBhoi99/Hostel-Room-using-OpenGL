@@ -16,6 +16,7 @@ Preview Image:
 <img src="https://user-images.githubusercontent.com/86927636/172348193-2f3dd121-a655-479d-a139-a5eb1f64e84a.png" width="500" height="500">
 
 Video Reference: https://drive.google.com/file/d/1eTPYZzYSHC33mDO_SHy28-bfEnOLFeVR/view?usp=sharing
+
 Requirements to run the file:
 
 	Must have installed GL/glut.h and GL/freeglut.h
